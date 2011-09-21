@@ -1,0 +1,28 @@
+--------------------------------------------------------------------------------
+
+Twister
+(c) 2009 Petr Nohejl
+
+Program Twister nahrazuje točítko pro společenskou hru Twister. Pravidla hry
+Twister jsou jednoduchá: hráči se na velkém hracím poli snaží "nespadnout" z
+barevných koleček, které obsazují svými končetinami - například "pravá noha na
+červené kolečko". Těla se proplétají a jen nejšikovnější a nejhbitější vydrží.
+Program, nahrazující točítko, náhodně generuje, kterou končetinou má hráč jít a
+na které políčko.
+
+--------------------------------------------------------------------------------
+
+Instalace:
+
+Twister je konzolová aplikace (spouští se v příkazovém řádku) a je napsána v
+jazyce Python 2.6. Pro její spuštění je třeba mít nainstalován interpret jazyka
+Python, který lze stáhnout na adrese: www.python.org.
+
+--------------------------------------------------------------------------------
+
+Ovládání:
+
+twister - náhodně vygeneruje končetinu a barvu políčka, na které má hráč jít,
+          příklad použití: twister.py
+
+--------------------------------------------------------------------------------
